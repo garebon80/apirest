@@ -8,7 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-//esto es un comentario de prueba
+//esto es un comentario de prueba para probar los merge
 
 @Entity
 @Table(name = "employees")
